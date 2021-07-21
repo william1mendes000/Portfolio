@@ -1,8 +1,12 @@
 # Portfolio
+
+Pagina criada junto ao curso do professor **João Carlos Lima e Silva.**
+https://github.com/joaocarloslima
+https://www.youtube.com/channel/UCStdvHzCL5n76P7WJqGBGzA
+
+
+ ## Prévia:
 https://william1mendes000.github.io/Portfolio/
-
- Pagina portfólio do desenvolvedor.
-
  ![designe](https://github.com/william1mendes000/Portfolio/blob/main/img/readme.png)
 
  ## Tarefas 
