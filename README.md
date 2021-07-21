@@ -3,7 +3,7 @@ https://william1mendes000.github.io/Portfolio/
 
  Pagina portfólio do desenvolvedor.
 
- !(img/readme.png)
+ ![designe](https://github.com/william1mendes000/Portfolio/blob/main/img/readme.png)
 
  ## Tarefas 
 
