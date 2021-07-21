@@ -3,6 +3,8 @@ https://william1mendes000.github.io/Portfolio/
 
  Pagina portfólio do desenvolvedor.
 
+ !(img/readme.png)
+
  ## Tarefas 
 
  O controle de tarefas desse projeto foi realizado no GitHub.
