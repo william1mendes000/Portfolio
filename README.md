@@ -1,7 +1,13 @@
 # Portfolio
 
-Pagina criada junto ao curso do professor **João Carlos Lima e Silva.**
+Pagina criada junto ao curso do professor 
+
+**João Carlos Lima e Silva.**
+
+
 https://github.com/joaocarloslima
+
+
 https://www.youtube.com/channel/UCStdvHzCL5n76P7WJqGBGzA
 
 
